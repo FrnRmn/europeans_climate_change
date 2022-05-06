@@ -15,9 +15,12 @@ With this analysis I explored the European Social Survey dataset of 2016/2017 to
 3. Do European countries have different problems and so different directions of improvement?
 4. Are there apparently unrelated factors that are instead related to climate change beliefs?
 
+### File Description
+You can run directly the analysis from the notebook. The .py file contains some functions that are needed in order to run the analysis.
+
 ### Results
 The main results from this analysis are described in this [post](to add link).
 
-### Data credits
+### Data Credits
 The .csv file is from Pascal Bliem, available [here](https://www.kaggle.com/datasets/pascalbliem/european-social-survey-ess-8-ed21-201617/code).
 The European Social Survey website can be found [here](https://www.europeansocialsurvey.org/).
