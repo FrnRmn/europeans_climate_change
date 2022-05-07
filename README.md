@@ -19,7 +19,7 @@ With this analysis I explored the European Social Survey dataset of 2016/2017 to
 You can run directly the analysis from the notebook. The .py file contains some functions that are needed in order to run the analysis.
 
 ### Results
-The main results from this analysis are described in this [post](to add link).
+The main results from this analysis are described in this [post](https://medium.com/@francescoromandini/what-do-europeans-think-about-climate-change-ebd8aadee9b8).
 
 ### Data Credits
 The .csv file is from Pascal Bliem, available [here](https://www.kaggle.com/datasets/pascalbliem/european-social-survey-ess-8-ed21-201617/code).
