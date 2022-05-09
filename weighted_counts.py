@@ -7,7 +7,7 @@ def weighted_value_counts(df_col,w):
 
     INPUT
     df_col: pandas data column containing the values of interest
-    w: array containing oen weight for each observation
+    w: array containing one weight for each observation
 
     OUTPUT
     a pandas Series containing the weighted count of unique values in the data column of interest
@@ -44,9 +44,9 @@ def weighted_country_value_counts(df_country_col1, df_col2,w):
     dividing the count by country.
 
     INPUT
-    df_country_col1: pandas data colunb containing a country code for each observation
+    df_country_col1: pandas data column containing a country code for each observation
     df_col2: pandas data column containing the values of interest
-    w: array containing oen weight for each observation
+    w: array containing one weight for each observation
 
     OUTPUT
     a pandas Series containing the weighted count of unique values in the data column of interest diveded by country
