@@ -77,9 +77,9 @@ def weighted_country_value_counts(df_country_col1, df_col2,w):
                 labels2.append(obs2)
                 counts.append(w_count)
             else:
-                #print(labels1);print(labels2);print(counts);print(obs1);print(obs2)
+                #if already in the count array find the location
                 count_indx = list(set([i for i, x in enumerate(labels1) if x == obs1]).intersection([i for i, x in enumerate(labels2) if x == obs2]))
                 #update count
                 counts[count_indx[0]] += w_count
 
-    return pd.Series(counts, index=[labels1,labels2])   #name={df_country_col1.name,df_col2.name}
+    return pd.Series(counts, index=[labels1,labels2])
