@@ -16,7 +16,7 @@ With this analysis I explored the European Social Survey dataset of 2016/2017 to
 4. Are there apparently unrelated factors that are instead related to climate change beliefs?
 
 ### Files Description
-You can run directly the analysis from the notebook. The .py file contains some functions that are needed in order to run the analysis.
+You can run directly the analysis from the notebook. The .py file contains some functions that are needed in order to run the analysis. Additionally, the European Social Survey provided.pdf file where they describe the dataset and the variables in great detailed.
 
 ### Results
 The main results from this analysis are described in this [post](https://medium.com/@francescoromandini/what-do-europeans-think-about-climate-change-ebd8aadee9b8).
